@@ -1,0 +1,32 @@
+.hero-header {
+  display: flex;
+  flex-direction: column;
+  background-image: url("../../images/hero.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  padding-bottom: 20%;
+  height: 20rem;
+}
+
+.hero-heading {
+  top: 10%;
+  bottom: 90%;
+}
+
+.hero-heading span {
+  background-color: steelblue;
+  color: whitesmoke;
+}
+
+.hero-subheading {
+  padding: 5px;
+  position: relative;
+  bottom:10%;
+  top:90%;
+  color: whitesmoke;
+}
+
+.hero-subheading span {
+    background-color: steelblue;
+}

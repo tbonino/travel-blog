@@ -1,0 +1,18 @@
+.blog-container{
+    padding: 1rem;
+    background-color: steelblue;
+    color: whitesmoke;
+}
+
+.travel-blog-page{
+    display: flex;
+    flex-direction: column;
+}
+
+.travel-blog-images{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
